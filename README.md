@@ -1,3 +1,4 @@
 # Resume for HyeWon Yi
 
-![Preview of Hyewon Yi's Resume] (img/screenshot.png)
+![Preview of Hyewon Yi's Resume] (img/ScreenShot.png)
+<!--https://hyewonyi.github.io/HyeWonYi-Website/-->
